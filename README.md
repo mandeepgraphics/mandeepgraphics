@@ -1,8 +1,6 @@
-<!-- ![Mandeep Kaur Banner](https://raw.githubusercontent.com/mandeepgraphics/mandeepgraphics/main/assets/mann-banner.jpg)-->
+![Mandeep Kaur Banner](https://raw.githubusercontent.com/mandeepgraphics/mandeepgraphics/main/assets/mann-banner.jpg)
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Mandeep</h2>
-
-<-- ## 👋 &nbsp;Hey there! I'm Mandeep -->
 
 ### 👨🏻‍💻 &nbsp;About Me
 
